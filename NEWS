@@ -3,7 +3,7 @@ GNU Iso9660 Analyzer Tool  NEWS -- history of user-visible changes.
 Copyright (C) 2007, 2008, 2009 Salvatore Santagati
 See the end for copying conditions.
 
-Please send Iso9660 Analyzer Tool bug reports to <https://developer.berlios.de/bugs/?group_id=6784>.
+Please send Iso9660 Analyzer Tool bug reports to <https://github.com/ropery/iat/issues>.
 
 Changes in Iso9660 Analyzer Tool 0.1.7
 =====================================================================================================
