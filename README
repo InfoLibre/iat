@@ -2,7 +2,7 @@
 Iso9660 Analyzer Tool
 =====================
 
-		Current Web home: http://iat.berlios.de
+		Current Web home: https://github.com/ropery/iat
 
 Iso9660 Analyzer Tool is a free utility tool for detecting the structure of DVD/CD-ROM 
 image file formats; the tool supports many CD/DVD-ROM data image file formats. 
@@ -34,13 +34,13 @@ the CUE file descriptor is also a good option. Iso9960 Analyzer Tool provides op
 CUE file descriptor. Note the creation of CUE might not work with protected image.
 
 The latest version of Iso9660 Analyzer Tool can be found at
-<https://developer.berlios.de/project/showfiles.php?group_id=6784>.
+<https://github.com/ropery/iat>.
 
 Please report bugs in Iso9660 Analyzer Tool to 
-<https://developer.berlios.de/bugs/?group_id=6784>.
+<https://github.com/ropery/iat/issues>.
 
 Forum in Iso9660 Analyzer Tool to
-<https://developer.berlios.de/forum/?group_id=6784>
+<?>
 
 IRC Channel to : freenode.net #ignus
 
